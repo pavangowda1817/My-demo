@@ -2,4 +2,4 @@
 Learning Github
 <br>
 This is me creating my first git 
-<b> Pavan </b>
+<b> Pavan Gowda </b>
